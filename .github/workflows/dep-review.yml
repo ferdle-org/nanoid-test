@@ -18,4 +18,4 @@ jobs:
         # You can only include one of these two options: `allow-licenses` and `deny-licenses`
         # ([String]). Only allow these licenses (optional)
         # Possible values: Any SPDX-compliant license identifiers or expressions from https://spdx.org/licenses/
-         allow-licenses: ISC, MIT, MPL-2.0
+         allow-licenses: ISC, MIT, MPL-2.0, ISC AND MIT AND MPL-2.0
