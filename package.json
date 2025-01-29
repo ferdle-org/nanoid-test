@@ -22,6 +22,7 @@
     "@codemirror/search": "^6.2.3",
     "@codemirror/state": "6.1.4",
     "@codemirror/view": "^6.6.0",
+    "axe-core": "4.10.2",
     "@datacamp/waffles": "~1.17.0",
     "@datacamp/waffles-tokens": "^1.0.4",
     "@lezer/highlight": "^1.1.3",
